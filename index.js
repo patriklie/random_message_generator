@@ -7,7 +7,6 @@ const optionsObject = {
     advice: ['fix the weather', 'stay in bed', 'stay inside and play Zelda', 'go hiking']
 }
 
-
 let randomizedMessage = []
 
 for(let option in optionsObject){
